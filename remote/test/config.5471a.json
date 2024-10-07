@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"test","deps":["resources"],"uuids":["73pyADrRlGnZq23apQaywr","7dj5uJT9FMn6OrOOx83tfK@f9941"],"paths":{"0":["TestLayout",0,1]},"scenes":{},"packs":{},"versions":{"import":[0,"314c6"],"native":[]},"redirect":[1,"0"],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.Prefab"]}
